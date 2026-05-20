@@ -155,20 +155,6 @@ Automation        Stock, pricing, imports, reporting, operational workflow logic
 Machine Learning  Python, data processing, classification, automation foundations
 ```
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=simran-sawhney&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&icon_color=a78bfa&text_color=e5e7eb" alt="Simran Sawhney GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-sawhney&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=e5e7eb" alt="Simran Sawhney top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=simran-sawhney&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="Simran Sawhney GitHub streak" />
-
-</div>
-
 ## Current Focus
 
 Building reliable operational software: systems that make complex businesses easier to run, scale, automate, and improve over time.
